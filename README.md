@@ -7,7 +7,7 @@
 - Puke Stimulus after too much nicotine
 - Real addiction (The player is slower and sees less without a cigarette at a distance of 10 minutes and smokes randomly if u have the item "cigarette" and "lighter")
 - Generally realistic cigarettes addiction
-
+- You 0.70% stronger in gun- and fights after a cigarette (simply activates nord-adrenaline)
 
 # Resmon / Performance
 
@@ -33,6 +33,7 @@ u can give your players a new cool and realistic function (recommeded for rolepl
 - Kotzreiz nach zu viel Nikotin
 - Echte Sucht (Der Spieler ist langsamer und sieht ohne Zigarette in einer Entfernung von 10 Minuten weniger und raucht automatisch wenn man die Gegenstände "Zigarette" und "Feuerzeug" hat)
 - Allgemein realistische Zigarettensucht
+- Du bist zu 0.70% stärker in waffen- kämpfe nach einer Zigarette (aktiviert Nord-Adrenalin)
 
 # Resmon / Leistung
 
